@@ -7,6 +7,8 @@ Efficient and Secure Architecture for uploading IoT Sensor Data to AWS IoT Core 
 #### Results
 ![Class Diagram ](https://user-images.githubusercontent.com/39345855/67233717-c5b36300-f411-11e9-92ed-ea5d2653fcd6.png)
 
+![Screen Shot 2019-10-21 at 2 49 12 PM](https://user-images.githubusercontent.com/39345855/67233886-0f9c4900-f412-11e9-9700-a5df98423ae7.png)
+
 
 
 ## Getting Started
