@@ -1,12 +1,18 @@
 # Project Title
 
 Efficient and Secure Architecture for uploading IoT Sensor Data to AWS IoT Core can Scale up to 100 + Sensor and Devices
+![Class Diagram ](https://user-images.githubusercontent.com/39345855/67233717-c5b36300-f411-11e9-92ed-ea5d2653fcd6.png)
+
+
+#### Results
+![Class Diagram ](https://user-images.githubusercontent.com/39345855/67233717-c5b36300-f411-11e9-92ed-ea5d2653fcd6.png)
+
+
 
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-![Class Diagram ](https://user-images.githubusercontent.com/39345855/67233717-c5b36300-f411-11e9-92ed-ea5d2653fcd6.png)
-
+3
 ### Prerequisites
 
 What things you need to install the software and how to install them
