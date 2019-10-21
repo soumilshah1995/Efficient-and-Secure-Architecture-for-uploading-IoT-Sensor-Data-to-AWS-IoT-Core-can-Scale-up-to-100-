@@ -33,3 +33,19 @@ What solution does the Facade design pattern describe?
 
 implements a simple interface in terms of (by delegating to) the interfaces in the subsystem and
 may perform additional functionality before/after forwarding a request.
+
+If you see my code Advantage is the entire system is loosely coupled . If any changes has to be done it dosent effect the other objects and class. you can easily add how many Sensor class you want. any changes in one class docent affect the other classes.
+
+
+
+## Authors
+
+* **Soumil Nitin Shah** 
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* Thanks to Indian Pythonist 
