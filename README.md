@@ -22,6 +22,11 @@ In This Blog I will Introduce a Efficient Architecture to Upload IoT Sensor Data
 * Run the Start.sh you should see posting Messages in AWS 
 * Modify Code only place you need to modify is Sensor Class 
 
+#### Make sure to change the certificate with whatever you have in shell script 
+```
+        >> python /Users/soumilshah/Desktop/AWSIoTCore/Master.py -e a15uvuidocrdo1-ats.iot.us-east-1.amazonaws.com -r root-CA.crt -c PyThing8oct.cert.pem -k PyThing8oct.private.key
+
+```
 
 
 ## Authors
