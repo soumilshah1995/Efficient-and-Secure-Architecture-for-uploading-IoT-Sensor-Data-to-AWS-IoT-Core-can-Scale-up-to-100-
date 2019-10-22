@@ -37,6 +37,3 @@ In This Blog I will Introduce a Efficient Architecture to Upload IoT Sensor Data
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
-
-* Thanks to Indian Pythonist 
