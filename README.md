@@ -15,19 +15,7 @@ Hello! I’m Soumil Nitin Shah, a Software and Hardware Developer based in New Y
 
 In This Blog I will Introduce a Efficient Architecture to Upload IoT Sensor Data on AWS IoT Core. Well this Architecture uses Facade Design Pattern and Singleton Design Pattern and to Make it more efficient I have used Slots in Python.
 
-## Guide to Use This 
-* Go to AWS and click on IoT Core and get started download the package 
-* Package has bunch of files and start.sh 
-* Paste my Python file in Location of aws-iot-device-sdk-python>samples>basicpubsub> basicpubsub.py
-* Run the Start.sh you should see posting Messages in AWS 
-* Modify Code only place you need to modify is Sensor Class 
-
-#### Make sure to change the certificate with whatever you have in shell script 
-```
-        >> python /Users/soumilshah/Desktop/AWSIoTCore/Master.py -e a15uvuidocrdo1-ats.iot.us-east-1.amazonaws.com -r root-CA.crt -c PyThing8oct.cert.pem -k PyThing8oct.private.key
-
-```
-
+# Complete Tutorial with ScreenShots is in PDF file Please read the PDF to Learn How to upload Data on AWS IoT COre with Python SDK()
 
 ## Authors
 
