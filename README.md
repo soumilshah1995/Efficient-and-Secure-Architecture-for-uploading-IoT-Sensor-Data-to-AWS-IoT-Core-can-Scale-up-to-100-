@@ -1,7 +1,7 @@
 
 # Efficient and Secure Architecture for uploading IoT Sensor Data to AWS IoT Core can Scale up to 100 + Sensor and Devices
 
-#### Complete Tutorial with ScreenShots is in PDF file Please read the PDF to Learn How to upload Data on AWS IoT COre with Python SDK(# Complete Tutorial with ScreenShots is in PDF file Please read the PDF to Learn How to upload Data on AWS IoT COre with Python SDK())
+#### Complete Tutorial with ScreenShots is in PDF file Please read the PDF to Learn How to upload Data on AWS IoT COre with Python SDK (https://github.com/soumilshah1995/Efficient-and-Secure-Architecture-for-uploading-IoT-Sensor-Data-to-AWS-IoT-Core-can-Scale-up-to-100-/blob/master/AWS%20IoT%20%20Core%20with%20Python%20SDk.pdf)
 
 
 
