@@ -1,6 +1,9 @@
 
 # Efficient and Secure Architecture for uploading IoT Sensor Data to AWS IoT Core can Scale up to 100 + Sensor and Devices
 
+#### Complete Tutorial with ScreenShots is in PDF file Please read the PDF to Learn How to upload Data on AWS IoT COre with Python SDK(# Complete Tutorial with ScreenShots is in PDF file Please read the PDF to Learn How to upload Data on AWS IoT COre with Python SDK())
+
+
 
 ![Class Diagram ](https://user-images.githubusercontent.com/39345855/67233717-c5b36300-f411-11e9-92ed-ea5d2653fcd6.png)
 
@@ -15,7 +18,7 @@ Hello! I’m Soumil Nitin Shah, a Software and Hardware Developer based in New Y
 
 In This Blog I will Introduce a Efficient Architecture to Upload IoT Sensor Data on AWS IoT Core. Well this Architecture uses Facade Design Pattern and Singleton Design Pattern and to Make it more efficient I have used Slots in Python.
 
-# Complete Tutorial with ScreenShots is in PDF file Please read the PDF to Learn How to upload Data on AWS IoT COre with Python SDK()
+
 
 ## Authors
 
